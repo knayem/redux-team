@@ -7,7 +7,7 @@ export const setTeams = (teams) => {
     }
 }
 
-export const selectedTeam = (team) => {
+export const selectyuyu65tyututyedTeam = (team) => {
     return {
         type: ActionTypes.SELECTED_TEAM,
         payload: team,
